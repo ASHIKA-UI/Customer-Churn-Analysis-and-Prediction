@@ -20,8 +20,46 @@ The main objective is to help businesses identify customers who are likely to le
 ## 🛠️ Tech Stack
 - **Language:** Python  
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
-- **Environment:** Jupyter Notebook  
+- **Environment:** Jupyter Notebook
 
 ---
+
+
+---
+
+## 🔍 Exploratory Data Analysis (EDA)
+- Handled missing values and data cleaning  
+- Analyzed customer demographics  
+- Studied churn distribution  
+- Visualized key patterns using graphs  
+- Identified important features affecting churn  
+
+---
+
+## 🤖 Machine Learning Models
+The following models were used:
+
+- Logistic Regression  
+- Decision Tree Classifier  
+- Random Forest Classifier  
+
+---
+
+## 📈 Model Evaluation Metrics
+- Accuracy Score  
+- Precision Score  
+- Recall Score  
+- F1 Score  
+
+---
+
+## 📊 Key Insights
+- Customers with **higher monthly charges** have higher churn probability  
+- **Month-to-month contracts** show the highest churn rate  
+- Lack of long-term engagement increases churn risk  
+- Certain service features strongly influence customer retention  
+
+---
+
 
 
